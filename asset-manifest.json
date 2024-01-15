@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tiredtrekker/static/css/main.4385dfef.css",
+    "main.js": "/tiredtrekker/static/js/main.996fd33b.js",
+    "static/media/homebg.jpg": "/tiredtrekker/static/media/homebg.6f2e2baa1f830caf3eca.jpg",
+    "static/media/dummybg.png": "/tiredtrekker/static/media/dummybg.4af1e8fa3a27db7f4094.png",
+    "static/media/logo.png": "/tiredtrekker/static/media/logo.58aacbf45904e2b2e9ae.png",
+    "index.html": "/tiredtrekker/index.html",
+    "main.4385dfef.css.map": "/tiredtrekker/static/css/main.4385dfef.css.map",
+    "main.996fd33b.js.map": "/tiredtrekker/static/js/main.996fd33b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4385dfef.css",
+    "static/js/main.996fd33b.js"
+  ]
+}
