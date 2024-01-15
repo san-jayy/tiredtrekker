@@ -1,0 +1,11 @@
+
+.aboutContainer{
+    height: 100vh;
+    background:gray;
+    width: 100%;
+}
+.myimage{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
